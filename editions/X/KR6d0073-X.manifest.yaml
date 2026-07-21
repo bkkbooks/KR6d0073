@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0073_000-X.yaml, hash: 'sha256:731a416bd15d0c57322b1058ef1e4cd98ed08e8f44acc1ad39f8edcc888ea4da'}
+  - {seq: 0, filename: KR6d0073_000-X.yaml, hash: 'sha256:bf00558074261b371ff10c516a39185c0b0c6a03e96a3c581cafdeccc9a53f0c'}
   - {seq: 1, filename: KR6d0073_001-X.yaml, hash: 'sha256:25f5cf2c36d7934ded74f0d11dcb8c48c5b3794e94dcaff0e5ab1a7162db3021'}
   - {seq: 2, filename: KR6d0073_002-X.yaml, hash: 'sha256:3e6f3c7a5a09f88ddc087e78088bbdc024e2b0a397d35b66290beba725e6d1e4'}
   - {seq: 3, filename: KR6d0073_003-X.yaml, hash: 'sha256:39235803269352585697204ae66f37f23c04a49b8f8dd46b5a8d50f94e83b394'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 6, filename: KR6d0073_006-X.yaml, hash: 'sha256:dbd6b2b8832c3053cbd73e174addc80e8c47564d17146edc5d0f7c166bec2bd5'}
   - {seq: 7, filename: KR6d0073_007-X.yaml, hash: 'sha256:ea262b28eda9cbf72285ed7377a06825056eba627b337fc79e1073d40299635e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0073_000-X.markers.yaml, hash: 'sha256:3a6e133b0b0050a4f5fb8c7696f44f16624fe0b125c14f7393b8c93f2a327f92'}
+  - {seq: 0, role: markers, filename: assets/KR6d0073_000-X.markers.yaml, hash: 'sha256:2622b2fb4ee083e54fecce3624554b9f1f95dd98701eda517bfe3e5c507065c2'}
   - {seq: 1, role: markers, filename: assets/KR6d0073_001-X.markers.yaml, hash: 'sha256:c88376e18c9ccce27d679f247bb0292fc51bad84c593692fc668cdf66b6da1dc'}
   - {seq: 2, role: markers, filename: assets/KR6d0073_002-X.markers.yaml, hash: 'sha256:551ea01f48bd682b4c5bc9c039d207d5a15ff50c5b4686110648fbd129791953'}
   - {seq: 3, role: markers, filename: assets/KR6d0073_003-X.markers.yaml, hash: 'sha256:697d0fe2244a893d22e39ccad2720754d52396f33ed966a083cd2fb617e56610'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0073_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 607-A 玅法蓮華經新註敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0073_X_000-mulu-2
     span:
-    - front
+    - body
     - 401
     - 401
   label: No. 607-B 重刻法華經科註序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0073_X_000-mulu-3
     span:
-    - front
+    - body
     - 984
     - 984
   label: No. 607-C 法華經科註疏序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0073_X_000-mulu-4
     span:
-    - front
+    - body
     - 1615
     - 1615
   label: No. 607-D 新註法華經序
@@ -457,4 +457,4 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:264da48ea8624640c19bd7bc271a78770af6e4a08681aae11727a6d2c0ba0f55
+hash: sha256:0876b658f311f2e6d32c086c8d14dcc7cd0828b8e0bc87bae0f6ef75079e2d40
